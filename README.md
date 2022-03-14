@@ -1,5 +1,12 @@
 # Hello World
 
+![project covid beranda](https://user-images.githubusercontent.com/100394806/158210075-946883e8-b6dd-45a2-9a8c-f7f1cc97a25b.PNG)
+![project covid sidebar](https://user-images.githubusercontent.com/100394806/158210086-a2361314-3795-4182-aca9-4d2740195d18.PNG)
+
+Nama Kelompok:
+1. Alisa Nuril Jazilah (362055401138)
+2. Fadilatul Rohmania (362055401132)
+
 A new Flutter project.
 
 ## Getting Started
