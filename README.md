@@ -6,6 +6,8 @@
 Nama Kelompok:
 1. Alisa Nuril Jazilah (362055401138)
 2. Fadilatul Rohmania (362055401132)
+3. Dini Adistia Budi (362055401150)
+4. Avina Dwi Ratnasari (362055401136)
 
 A new Flutter project.
 
